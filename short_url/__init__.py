@@ -49,7 +49,7 @@ Link: http://code.activestate.com/recipes/576918/
 
 __version__ = (1, 2, 2)
 
-DEFAULT_ALPHABET = 'abcdefghijklmnopqrstuvwxyz0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+DEFAULT_ALPHABET = 'UGw2bkTun4rapdjgYyohVELH1s3RicXmCZ9QzqDBFNe5Iv6WxSt7OPKA0lfMJ8'
 DEFAULT_BLOCK_SIZE = 24
 MIN_LENGTH = 5
 
